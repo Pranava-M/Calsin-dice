@@ -5,8 +5,7 @@ This repository contains two distinct Python projects:
 2. A simple **Dice Rolling Simulator** (CLI)
 
 ## 1. 3D Scientific Calculator
-
-![Calculator Demo](calculator_screenshot.png) *Screenshot placeholder*
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 
 A feature-rich scientific calculator with modern styling and advanced functionality.
 
